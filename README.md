@@ -5,6 +5,7 @@ clangd
 emmet-ls
 efm-langserver
 pylint
+ripgrep
 
 Commands to install lsp:
 :MasonInstallTools
@@ -13,4 +14,5 @@ Example for single server:
 :Mason (To check list of installed lsps)
 
 Copilot:
-:CopliotAuthn
+:CopliotAuth
+
